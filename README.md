@@ -1,10 +1,10 @@
 # a11e
 
-## sources d'inspiration graphique
+## Sources d'inspiration graphique
 
 - [Elioz](https://www.elioz.fr/)
 
-## sources pour les articles
+## Sources pour les articles
 
 - [Faciliter la traduction en langue des signes](https://lejournal.cnrs.fr/articles/faciliter-la-traduction-en-langue-des-signes)
 - [Le bilinguisme sourd](http://lsq.uqam.ca/sites/default/files/Banff2003.pdf)
@@ -16,7 +16,15 @@
 - [RogerVoice](https://www.francetvinfo.fr/internet/telephonie/avec-l-application-rogervoice-les-personnes-sourdes-et-malentendantes-peuvent-appeler-avec-leur-telephone_2975031.html)
 - [Closed captioning](https://en.wikipedia.org/wiki/Closed_captioning)
 - [Buster Keaton](https://www.youtube.com/watch?v=DJcTeHsZ4m4)
+- (Contribution de la communauté)[https://support.google.com/youtube/answer/6054623?hl=fr]
 
-## créatrice de la police d'écriture du logo
+## Créatrice de la police d'écriture du logo
 
 [KImberley Geswein](http://www.kimberlygeswein.com/)
+
+## Sitemap.xml
+
+le faire avec gloomaps
+ajouter les urls
+changefreq
+priority
