@@ -19,7 +19,7 @@
 - [Buster Keaton](https://www.youtube.com/watch?v=DJcTeHsZ4m4)
 - (Contribution de la communauté)[https://support.google.com/youtube/answer/6054623?hl=fr]
 
-## Créatrice de la police d'écriture du logo
+## Créatrice de la police d'écriture du logo 'Indie Flower'
 
 [KImberley Geswein](http://www.kimberlygeswein.com/)
 
@@ -30,9 +30,10 @@ ajouter les urls
 changefreq
 priority
 
-ajouter les sources insta et les sites des associations qui nous ont aider
-le nom de l'interprète
-le lien de l'ACS
+ajouter les sources insta et les sites des associations qui nous ont aider  
+le nom de l'interprète  
+(Onlineformapro)[https://www.onlineformapro.com/]  
+(Access Code School)https://www.accesscodeschool.fr/]  
 (Réseau Sourds Santé Bourgogne)[http://www.rssb.fr/]
 
 ## features
