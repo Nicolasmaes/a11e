@@ -33,14 +33,17 @@ priority
 ajouter les sources insta et les sites des associations qui nous ont aider
 le nom de l'interprète
 le lien de l'ACS
+(Réseau Sourds Santé Bourgogne)[http://www.rssb.fr/]
 
 ## features
 
 insérer un traducteur en langue des signes, un input dans lequel on rentre un mot, et il en ressort une série d'images (chaque lettre en langue des signes)
 
-Bonjour et bienvenue sur allé.fr
 
-NOus allons essayer de décortiquer le quotidien et l'expèrience des sours et des malentendants sur le web.
+## discours de la vidéo
+Bonjour et bienvenue sur a11é.fr
+
+Nous allons essayer de décortiquer le quotidien et l'expèrience des sours et des malentendants sur le web.
 
 Jespère que vous trouverez le site agréable et instructif.
 
