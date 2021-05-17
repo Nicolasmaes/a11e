@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+  <link>https://www.gloomaps.com/WKnyTTd96G</link>
+  <pubdate>05/12/2021</pubdate>
+  <section>
+    <box>
+      <text>Page d'accueil</text>
+      <member>
+        <box>
+          <text>Article 1</text>
+          <member/>
+        </box>
+        <box>
+          <text>Article 2</text>
+          <member/>
+        </box>
+        <box>
+          <text>Article 3</text>
+          <member/>
+        </box>
+        <box>
+          <text>Article 4</text>
+          <member/>
+        </box>
+        <box>
+          <text>Crédits</text>
+          <member/>
+        </box>
+        <box>
+          <text>Mention légales</text>
+          <member/>
+        </box>
+        <box>
+          <text> À propos</text>
+          <member/>
+        </box>
+      </member>
+    </box>
+  </section>
+</gloomaps>
