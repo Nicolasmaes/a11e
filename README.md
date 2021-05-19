@@ -18,6 +18,7 @@
 - [Closed captioning](https://en.wikipedia.org/wiki/Closed_captioning)
 - [Buster Keaton](https://www.youtube.com/watch?v=DJcTeHsZ4m4)
 - (Contribution de la communauté)[https://support.google.com/youtube/answer/6054623?hl=fr]
+- (ilustration principale)[https://www.freepik.com/photos/hand']
 
 ## Créatrice de la police d'écriture du logo 'Indie Flower'
 
@@ -31,10 +32,12 @@ changefreq
 priority
 
 ajouter les sources insta et les sites des associations qui nous ont aider  
-le nom de l'interprète  
+Lauranne Chasez, interprète
 (Onlineformapro)[https://www.onlineformapro.com/]  
 (Access Code School)https://www.accesscodeschool.fr/]  
 (Réseau Sourds Santé Bourgogne)[http://www.rssb.fr/]
+(Visuel LSF)[http://www.visuel-lsf.org/]
+
 
 ## features
 
