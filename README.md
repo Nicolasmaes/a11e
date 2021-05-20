@@ -49,17 +49,25 @@ ajouter les urls
 changefreq
 priority
 
-ajouter les sources insta et les sites des associations qui nous ont aider  
-Lauranne Chasez, interprète
-(Onlineformapro)[https://www.onlineformapro.com/]  
-(Access Code School)https://www.accesscodeschool.fr/]  
-(Réseau Sourds Santé Bourgogne)[http://www.rssb.fr/]
-(Visuel LSF)[http://www.visuel-lsf.org/]
+## les collaborateurs
 
+ajouter les sources insta et les sites des associations qui nous ont aider, dans les crédits 
+
+Lauranne Chasez, interprète  
+[Onlineformapro](https://www.onlineformapro.com/)  
+[Access Code School](https://www.accesscodeschool.fr/)    
+[Réseau Sourds Santé Bourgogne](http://www.rssb.fr/)  
+[Visuel LSF](http://www.visuel-lsf.org/)
+[Addic7ed](https://www.addic7ed.com/)
 
 ## features
 
-insérer un traducteur en langue des signes, un input dans lequel on rentre un mot, et il en ressort une série d'images (chaque lettre en langue des signes)
+- insérer un traducteur en langue des signes, un input dans lequel on rentre un mot, et il en ressort une série d'images (chaque lettre en langue des signes)
+
+- idéalement, la vidéo est intégrée avec les balises `<video>` et `<tracks>`, sinon via Youtube.
+
+idéalement, l'image de fond sur notre page d'accueil est en noir et blanc, pour ne pas prendre le pas sur nos bleus.
+
 
 
 ## discours de la vidéo
