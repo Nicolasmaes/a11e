@@ -68,23 +68,23 @@ Lors la transcription d'informations non-verbales, une situation peut donner lie
 
 interview d'un nageur : 
 
-It's been my dream since I was a little buoy
+`It's been my dream since I was a little buoy`
 
 makes "I don't know" sound
 
-screaming like a sissy
+`screaming like a sissy`
 
-le robot dans star wars : 
-sad beep
+le robot dans star wars :   
+`sad beep`
 
-lors d'une situation tendue : 
-intensity insifies
+lors d'une situation tendue :    
+`intensity insifies`
 
-une journaliste à la télévision : 
-blah blah blah
+une journaliste à la télévision :   
+`blah blah blah`
 
-un personnage vexé : 
-screams internally
+un personnage vexé :   
+`screams internally`
 
 [Closed caption](https://en.wikipedia.org/wiki/Closed_captioning)
  ![](pictures/degres-automatisation.png)
