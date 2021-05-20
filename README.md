@@ -20,6 +20,24 @@
 - (Contribution de la communauté)[https://support.google.com/youtube/answer/6054623?hl=fr]
 - (ilustration principale)[https://www.freepik.com/photos/hand']
 
+## lien pour la page à propos
+
+GitHub : 
+https://github.com/Nicolasmaes
+https://github.com/Micmacthebigmac
+https://github.com/Adrien-Ray
+https://github.com/Onetouch59
+
+LinkedIn :
+
+https://www.linkedin.com/in/adrien-raymond-568b1b20a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BODFuIczvRnaZ5h8zTR2fVQ%3D%3D
+
+https://www.linkedin.com/in/herv%C3%A9-richard-8072b8201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9kRdy4hyTiqmj%2BwzLL1dog%3D%3D
+
+https://www.linkedin.com/in/adam-bederiat-1a4706210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmZj7viCQT0O01vJBWtw1%2BQ%3D%3D
+
+https://www.linkedin.com/in/nicolas-ma%C3%ABs-6a1b571b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrV3P39WaRLCgQjmTUBq5tg%3D%3D
+
 ## Créatrice de la police d'écriture du logo 'Indie Flower'
 
 [KImberley Geswein](http://www.kimberlygeswein.com/)

@@ -56,6 +56,14 @@ Bien qu'aujourd'hui les ordinateurs savent sous-titrer des vidéos. Il reste tou
 
 Il est aussi important de faire traduire les dialogues d'une langue à l'autre par un humain, car les expressions populaires (ainsi que les blagues) de chaque langue ne se traduisent pas mot à mot.
 
+## Le pouvoir de la communauté
+
+Nous avons pu contacter l'équipe Addic7ed, qui fournit des sous-titres anglais pour un grand nombre de séries.
+Ils nous ont dit qu'ils font ça pour les sourds en premier lieu. Leur équipe est composée de 40 personnes venant du monde entier.
+Ce sont les utilisateurs qui s'occupent ensuite des traductions dans chaque pays. Ces derniers peuvent mettre en ligne leurs sous-titres dirtectement sur la plateforme Addic7ed.
+
+## Un peu d'humour
+
 Lors la transcription d'informations non-verbales, une situation peut donner lieu à des sous-titres plutôt cocasses, je vous laisse juger : 
 
 interview d'un nageur : 
@@ -89,4 +97,5 @@ screams internally
 
  [AmberScript](https://www.amberscript.com/fr/accessibilite-numerique)
 
- insérer les sous-titres drôles via des balises img, mais avec le liens vers cette images
+ 
+ [Addic7ed](https://www.addic7ed.com/)
