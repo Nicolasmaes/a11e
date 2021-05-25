@@ -49,9 +49,7 @@ ajouter les urls
 changefreq
 priority
 
-## les collaborateurs
-
-ajouter les sources insta et les sites des associations qui nous ont aider, dans les crédits 
+## Remerciements
 
 Lauranne Chasez, interprète  
 [Onlineformapro](https://www.onlineformapro.com/)  
@@ -66,8 +64,7 @@ Lauranne Chasez, interprète
 
 - idéalement, la vidéo est intégrée avec les balises `<video>` et `<tracks>`, sinon via Youtube.
 
-idéalement, l'image de fond sur notre page d'accueil est en noir et blanc, pour ne pas prendre le pas sur nos bleus.
-
+- idéalement, l'image de fond sur notre page d'accueil est en noir et blanc, pour ne pas prendre le pas sur nos bleus.
 
 
 ## discours de la vidéo
@@ -79,4 +76,4 @@ Jespère que vous trouverez le site agréable et instructif.
 
 Bonne navigation !
 
-La page du traducteur en LSF n'aura pas de scroll.
+## La page du traducteur en LSF n'aura pas de scroll.
