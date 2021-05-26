@@ -59,3 +59,10 @@ align-items: flex-start;
  row-gap: 3rem;
 
 }
+
+
+.sources
+{
+    display: flex;
+    flex-direction: row;
+}

@@ -54,72 +54,69 @@
             Chaque sous-titre contient le timecode durant lequel il doit apparaître et le texte à afficher durant cette courte période. <br>
             Il est possible d'y inclure des commentaires pour faciliter le travail des intégrateurs web.
         </p>
-
-            Ces fichiers s'intègrent de cette manière dans le fichier html d'un site web : 
+        
+       
+            Ces fichiers s'intègrent de cette manière dans le fichier html d'un site web :
 
             <video controls autoplay src="video.webm">
                 <track default src="track.vtt">  
             </video>
 
-Bien sûr, les navigateurs savent afficher les sous-titres.  
-Mais il est toujours possible pour les développeurs de personnaliser ces sous-titres dans le fichier CSS en ciblant les phrases précisément.  
+            <p>
+                Bien sûr, les navigateurs savent afficher les sous-titres. <br>
+                Mais il est toujours possible pour les développeurs de personnaliser ces sous-titres dans le fichier CSS en ciblant les phrases précisément.  <br><br>
+        
 
-`::cue(#\31) {color: yellow;}`
+                `::cue(#\31) {color: yellow;}`
 
-Cette ligne de CSS donnera la couleur jaune au texte numéro 31 dans le fichier.vtt.
+                Cette ligne de CSS donnera la couleur jaune au texte numéro 31 dans le fichier.vtt.
+            </p>
 
-De nos jours il est encore plus facile de sous-itrer des vidéos en passant par Youtube.
-En effet, Youtube propose de sous-titrer directement les vidéos sur sa plateforme, en y ajoutant les sous-titres avec les timecodes.
+            De nos jours il est encore plus facile de sous-itrer des vidéos en passant par Youtube. <br>
+            En effet, Youtube propose de sous-titrer directement les vidéos sur sa plateforme, en y ajoutant les sous-titres avec les timecodes. <br><br>
 
-Bien qu'aujourd'hui les ordinateurs savent sous-titrer des vidéos. Il reste tout de même plus commode de laisser ce trabail à un humain qui saura exactement décrire les sons ambiants et les dialogues sans forcément faire du mot à mot.
+            Bien qu'aujourd'hui les ordinateurs savent sous-titrer des vidéos. Il reste tout de même plus commode de laisser ce trabail à un humain qui saura exactement décrire les sons ambiants et les dialogues sans forcément faire du mot à mot. <br>
 
-Il est aussi important de faire traduire les dialogues d'une langue à l'autre par un humain, car les expressions populaires (ainsi que les blagues) de chaque langue ne se traduisent pas mot à mot.
+            Il est aussi important de faire traduire les dialogues d'une langue à l'autre par un humain, car les expressions populaires (ainsi que les blagues) de chaque langue ne se traduisent pas mot à mot. <br><br><br>
 
-## Le pouvoir de la communauté
 
-Nous avons pu contacter l'équipe Addic7ed, qui fournit des sous-titres anglais pour un grand nombre de séries.
-Ils nous ont dit qu'ils font ça pour les sourds en premier lieu. Leur équipe est composée de 40 personnes venant du monde entier.
-Ce sont les utilisateurs qui s'occupent ensuite des traductions dans chaque pays. Ces derniers peuvent mettre en ligne leurs sous-titres dirtectement sur la plateforme Addic7ed.
+            ## Le pouvoir de la communauté <br><br>
 
-## Un peu d'humour
+            Nous avons pu contacter l'équipe Addic7ed, qui fournit des sous-titres anglais pour un grand nombre de séries. <br>
+            Ils nous ont dit qu'ils font ça pour les sourds en premier lieu. Leur équipe est composée de 40 personnes venant du monde entier. <br>
+            Ce sont les utilisateurs qui s'occupent ensuite des traductions dans chaque pays. Ces derniers peuvent mettre en ligne leurs sous-titres dirtectement sur la plateforme Addic7ed. <br><br><br>
 
-Lors la transcription d'informations non-verbales, une situation peut donner lieu à des sous-titres plutôt cocasses, je vous laisse juger : 
 
-interview d'un nageur : 
+            ## Un peu d'humour <br><br>
 
-`It's been my dream since I was a little buoy`
+            Lors la transcription d'informations non-verbales, une situation peut donner lieu à des sous-titres plutôt cocasses, je vous laisse juger : <br><br>
 
-makes "I don't know" sound
+            Interview d'un nageur : `It's been my dream since I was a little boy` makes "I don't know" sound <br><br>
 
-`screaming like a sissy`
+            Le robot dans star wars : `sad beep` <br><br>
 
-le robot dans star wars :   
-`sad beep`
+            Lors d'une situation tendue : `intensity insifies` <br><br>
 
-lors d'une situation tendue :    
-`intensity insifies`
+            Une journaliste à la télévision : `blah blah blah` <br><br>
 
-une journaliste à la télévision :   
-`blah blah blah`
+            Un personnage vexé : `screams internally`
 
-un personnage vexé :   
-`screams internally`
+            </p>
 
-[Closed caption](https://en.wikipedia.org/wiki/Closed_captioning)
- ![](pictures/degres-automatisation.png)
+            <div class="sources">
+                <a href="https://en.wikipedia.org/wiki/Closed_captioning">Closed caption</a>
 
-[Masques pour les malentendants](https://www.bloghoptoys.fr/masques-un-picto-pour-les-malentendants)
+                <a href="https://www.bloghoptoys.fr/masques-un-picto-pour-les-malentendants">Masques pour les malentendants</a>
 
- [RogerVoice](https://www.francetvinfo.fr/internet/telephonie/avec-l-application-rogervoice-les-personnes-sourdes-et-malentendantes-peuvent-appeler-avec-leur-telephone_2975031.html)
+                [RogerVoice](https://www.francetvinfo.fr/internet/telephonie/avec-l-application-rogervoice-les-personnes-sourdes-et-malentendantes-peuvent-appeler-avec-leur-telephone_2975031.html)
 
- [BabylonDesign](http://babylon-design.com/surdite-accessibilite-sourds-sur-internet/)
+                [BabylonDesign](http://babylon-design.com/surdite-accessibilite-sourds-sur-internet/)
 
- [AmberScript](https://www.amberscript.com/fr/accessibilite-numerique)
+                [AmberScript](https://www.amberscript.com/fr/accessibilite-numerique)
 
- 
- [Addic7ed](https://www.addic7ed.com/)
-        </p>
-    </div>
+                
+                [Addic7ed](https://www.addic7ed.com/)        
+            </div>
 
     </div>
     
