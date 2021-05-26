@@ -1,0 +1,44 @@
+.h1,h2,h3,h4,h5,h5,h6,h7{
+    font-family: Indie-flower bold;
+    font-size: 20px ;
+    text-align: center;
+}
+
+section{
+    text-align:  center;
+}
+
+.p{
+    font-family: luciole;
+    text-align: center;
+    font-size:10px; 
+}
+
+.ul{
+    font-family: Indie-flower;
+    text-align: center;
+    font-size:10px;
+    font-weight: bolder;
+}
+   
+ .li{
+        font-family: luciole;
+        text-align: center;
+        font-size:10px;
+        list-style-position: inside;
+        
+    }
+
+
+
+.image {
+    position:relative ;
+    top:center;
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+    z-index:100;
+
+    }
+    
+    
