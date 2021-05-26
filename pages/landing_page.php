@@ -7,14 +7,20 @@
     <link rel="stylesheet" href="../styles/styles.css">
 </head>
 
-<body id="background_lp">
+<body>
+
+
 
     <div class="margin">
 
         <main>
-            <p class="text_landingpage">
-            Découvrons ensemble une communauté qui n'est pas assez entendue
-            </p>
+
+        
+        <p class="text_landingpage">
+        Découvrons ensemble une communauté qui n'est pas assez entendue
+        </p>
+
+        
             
             <div class="video"></div>
 

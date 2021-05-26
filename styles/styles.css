@@ -1,8 +1,4 @@
-*
-{
-    margin: 0;
-    padding: 0;
-}
+/* BASICS SETTINGS */
 
 @font-face 
 {
@@ -14,6 +10,12 @@
 {
     font-family: "luciole";
     src: url("../assets/fonts/Luciole-Regular.ttf") ;
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
 }
 
 body
@@ -40,35 +42,29 @@ img
     margin: 1.5rem;
 }
 
-
-
 .text_landingpage
 {
     font-size: 2rem;
     max-width: 30rem;
     line-height: 4rem;
- 
 }
-
-
 
 main
 {
- 
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  row-gap: 6rem;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    row-gap: 6rem;
 }
 
 main img
 {
-max-width: 16rem;
+    max-width: 16rem;
 }
 
+/* Miniature landing page */
 
 .miniature
 {
@@ -77,7 +73,6 @@ max-width: 16rem;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-
     text-align: center;
     row-gap: 3rem;
     column-gap: 12rem;
