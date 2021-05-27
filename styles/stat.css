@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "luciole";
+    src: url("../assets/fonts/Luciole-Regular.ttf");
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+    background-color: none;
+    font-family: "luciole";
+}
+
+.stat-p {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+}
+
+.subtitle {
+    font-weight: bold;
+}
