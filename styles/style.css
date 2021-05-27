@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "luciole";
+    src: url("../assets/fonts/Luciole-Regular.ttf");
+}
+
 .container {
     width: 85%;
     margin: auto;
@@ -19,4 +24,5 @@ img {
 
 body {
     background-color: none;
+    font-family: "luciole";
 }
