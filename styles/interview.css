@@ -2,18 +2,14 @@
     font-family: "luciole";
     src: url("../assets/fonts/Luciole-Regular.ttf");
 }
+body {
+    background-color: none;
+    font-family: "luciole";
+}
 
 .container {
     width: 85%;
     margin: auto;
-}
-
-.quest {
-    font-weight: bold;
-}
-
-img {
-    width: 4rem;
 }
 
 .para {
@@ -22,7 +18,8 @@ img {
     row-gap: 2rem;
 }
 
-body {
-    background-color: none;
-    font-family: "luciole";
+.quest {
+    font-weight: bold;
 }
+
+
