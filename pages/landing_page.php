@@ -9,20 +9,37 @@
 
 <body>
 
+ 
 
+  
+    <div class="test">
+        <img src="../assets/images/pictures/deafgroup.png" alt="" >
+        <p class="text_landingpage">
+            Découvrons ensemble une communauté qui n'est pas assez entendue
+        </p>
+        <header>
+            <img src="../assets/images/icons/logo-a11e-white.svg" alt="logo">
+            <div class="menu">
+                <span>Interview</span>
+                <span>Statistiques</span>
+                <span>LSF</span>
+                <span>Sous-titre</span>
+            </div>
+
+            <div class="menu2">
+                <span>Interview</span>
+                <span>Statistiques</span>
+                <span>LSF</span>
+                <span>Sous-titre</span>
+            </div>
+            
+        </header>
+    </div>
 
     <div class="margin">
 
         <main>
-
-        
-        <p class="text_landingpage">
-        Découvrons ensemble une communauté qui n'est pas assez entendue
-        </p>
-
-        
-            
-            <div class="video"></div>
+            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Sf7mLlImkYI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
             <div class="miniature">
                     <div class="miniature__group">
@@ -86,10 +103,11 @@
 
                     <img src="../dossier-conception/futures-assets/logo-landing-page-hand.png" alt="illustration d'une main">
             </div>
-
         </main>
-    
-   
+
+    </div>
+
+    <img src="../assets/images/pictures/Sans-titre-2.png" alt="" class="foot">
     
 </body>
 </html>
