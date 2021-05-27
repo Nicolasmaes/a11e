@@ -30,7 +30,7 @@
 
                     Idéalement un sous-titre doit être visible au moins 1 seconde, comporter 2 lignes maximum et contenir 40 caractères par lignes maximum. <br><br>
 
-                    Pour sous-titrer une vidéo nous-mêmes, il existe plusieurs formats de fichiers dont c'est le rôle. Les plus populaires sont les formats srt et vtt. >
+                    Pour sous-titrer une vidéo nous-mêmes, il existe plusieurs formats de fichiers dont c'est le rôle. Les plus populaires sont les formats srt et vtt.
                 </p>
             </div>
             
@@ -60,9 +60,11 @@
                     Ces fichiers s'intègrent de cette manière dans le fichier html d'un site web :
             </p>
 
-            <video controls autoplay src="video.webm">
-                <track default src="track.vtt">  
-            </video>
+            <span class="citation">
+                &ltvideo controls autoplay src="video.webm"&gt
+                &lttrack default src="track.vtt"&gt  
+                &lt/video&gt
+            </span>
      
             <p>
                 Bien sûr, les navigateurs savent afficher les sous-titres. <br>
