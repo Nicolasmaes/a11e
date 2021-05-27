@@ -1,0 +1,22 @@
+.container {
+    width: 85%;
+    margin: auto;
+}
+
+.quest {
+    font-weight: bold;
+}
+
+img {
+    width: 4rem;
+}
+
+.para {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+}
+
+body {
+    background-color: none;
+}
