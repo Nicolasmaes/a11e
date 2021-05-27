@@ -56,13 +56,40 @@ video
  flex-direction: column;
 justify-content: center;
 align-items: flex-start;
- row-gap: 3rem;
-
+row-gap: 5rem;
 }
+
+
+.main_sous-titres div{
+    display: flex;
+    flex-direction: column;
+
+   row-gap: 2.4rem;
+   
+   }
 
 
 .sources
 {
     display: flex;
+    flex-direction: column;
+}
+
+.citation{
+    background-color: #f2f2f2;
+   
+}
+
+.sources_space
+{
+    display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
+    row-gap: 0.5rem;
+    column-gap: 1.5rem;
+}
+
+.bold
+{
+    font-weight: bold;
 }
