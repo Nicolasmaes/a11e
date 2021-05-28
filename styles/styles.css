@@ -57,6 +57,7 @@ video
 justify-content: center;
 align-items: flex-start;
 row-gap: 5rem;
+
 }
 
 
@@ -101,6 +102,7 @@ row-gap: 5rem;
      text-align: justify;
      justify-content: center;
      max-width: 50rem;
+     text-align: justify;
      
        }
            

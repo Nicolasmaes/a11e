@@ -18,7 +18,6 @@
                 <p>
                     Historiquement au cinéma, tout commence avec les films muets. <br>
                     Les situations et dialogues étaient retranscrits complètement à part sur des fonds noirs, en quittant la scène des yeux 
-
                     <a href="https://www.youtube.com/watch?v=DJcTeHsZ4m4">(extrait  de film muet)</a>. <br><br>
 
                     On peut imaginer que ces films étaient et sont toujours agréables à regarder par des déficients auditifs. <br><br>
@@ -36,7 +35,7 @@
             
             <div>
             <p> 
-                Ces fichier sont écrits de la manière suivante : <br><br>
+                <span class="bold">Ces fichier sont écrits de la manière suivante : </span><br><br>
 
                 WEBVTT - Ce fichier possède des répliques. <br><br>
                 <span class="citation">
@@ -103,7 +102,7 @@
                 <p>
                     Lors la transcription d'informations non-verbales, une situation peut donner lieu à des sous-titres plutôt cocasses, je vous laisse juger : <br><br>
 
-                    Interview d'un nageur : « It's been my dream since I was a little boy » donne "I don't know sound »<br><br>
+                    Interview d'un nageur : « It's been my dream since I was a little boy » donne « I don't know sound »<br><br>
 
                     Le robot dans star wars : « sad beep » <br><br>
 
