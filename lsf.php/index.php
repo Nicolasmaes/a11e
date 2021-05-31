@@ -81,12 +81,12 @@
         <br>ayant sous les yeux l'habituel fiche alphabétique.
         </p>
 
-        <h9>Source</h9>
-       <a href="https://lejournal.cnrs.fr/articles/faciliter-la-traduction-en-langue-des-signes">facilité de la traducion en langue des signes</a>
-       <a href="http://lsq.uqam.ca/sites/default/files/Banff2003.pdf">logiciel d’apprentissage s’adressant à des personnes sourdes et pour la création de ce logiciel</a>
-        <a href="https://fr.wikipedia.org/wiki/Langue_des_signes_française">langue des signes française</a>
+        <h9>Source</h9><br>
+       <a href="https://lejournal.cnrs.fr/articles/faciliter-la-traduction-en-langue-des-signes">facilité de la traducion en langue des signes</a><br>
+       <a href="http://lsq.uqam.ca/sites/default/files/Banff2003.pdf">logiciel d’apprentissage s’adressant à des personnes sourdes et pour la création de ce logiciel</a><br>
+        <a href="https://fr.wikipedia.org/wiki/Langue_des_signes_française">langue des signes française</a><br>
         <a href="https://webzine.okeenea.com/6-applications-sourds-malentendants-2020/">6 applications pour les personnes sourdes et malentedantes en 2020</a>
-
+      
        </div>
 
    <script src="main.js"></script>
