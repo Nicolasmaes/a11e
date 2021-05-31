@@ -9,27 +9,24 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
 }
 
-.container {
-    max-width: 50rem;
-    text-align: justify;
-    display: flex;
-    flex-direction: column;
-    row-gap: 3rem;
-}
-
-.para {
+.main__interview {
+    max-width: 60rem;
     display: flex;
     flex-direction: column;
     row-gap: 2rem;
+    text-align: justify;
 }
 
-.quest {
+.main__interview__question {
     font-weight: bold;
 }
 
-.marge {
-    margin: 1.5rem;
+.margin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
 }
+
