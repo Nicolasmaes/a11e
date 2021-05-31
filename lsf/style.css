@@ -1,46 +1,53 @@
-.h1,h2,h3,h5,h6,h7,h8,h9{
-    font-family: Indie-flower bold;
-    font-size: 20px ;
+body{
+    margin:auto;
+}
+
+.main_lsf
+{
+
+    margin: 0 auto;
+    max-width: 34rem;
+
+}
+
+@font-face{
+    font-family: Indie-flower, luciole;
+    src: local("indie-flower-bold"),
+     url(IndieFlowerBold.ttf);
+     src: local("luciole"),
+     url(luciole.ttf);
+}
+
+.h2{
+    font-family:"Indie-flower" bold;
+    font-size:15px ;
     text-align: center;
 }
 
-.h4{
-    font-family: Indie-flower bold;
-    font-size: 18px ;
-    text-align: left;
+.h3,h4{
+    font-family: "Indie-flower" bold;
+    font-size: 14px ; 
+   
 }
 
 .p{
-    font-family: luciole;
-    text-align: center;
-    font-size:15px;
-    width: 85px; 
-    margin:auto;
-    
+    font-family: "luciole";
+    font-size:20px;
 }
 
-.ul{
-    font-family: Indie-flower;
-    text-align: center;
-    font-size:10px;
-    font-weight: bolder;
-}
-   
- .li{
-        font-family: luciole;
-        text-align: center;
-        font-size:10px;
-        list-style-position: inside;
-        
+
+.li{
+   font-family: "luciole";
+   text-align: center;
+   font-size:10px;
+   list-style-position: inside;  
     }
-
-
 
 .image{
     width: 100%;
     max-width: 20rem;
     height: auto;
-    
+    margin-left: 25%;
     }
     
     .main_lsf
@@ -48,13 +55,24 @@
         text-align: left;
     }
 
-    @media screen and (min-width: 30rem) {
-        .main_lsf
-        {
-            text-align: center;
-        }
-      }
+  
 
+    .test_para,li,h3,a
+    {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+ 
+    }
+
+   
+  
+  @media screen and (min-width:30rem)
+  {
+    .test h2
+    {
+       text-align: center;
     
-    
-      
+    }
+  }
