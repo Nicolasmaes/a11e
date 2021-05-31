@@ -3,19 +3,20 @@
     src: url("../assets/fonts/Luciole-Regular.ttf");
 }
 
-.container {
+.main__statistique {
     width: 85%;
     margin: auto;
     background-color: none;
     font-family: "luciole";
-}
-
-.stat-p {
     display: flex;
     flex-direction: column;
     row-gap: 2rem;
+    max-width: 60rem;
+
 }
 
-.subtitle {
+
+
+.main__statistique__paragraphe__subtitle {
     font-weight: bold;
 }
