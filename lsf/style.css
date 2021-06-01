@@ -11,22 +11,25 @@ body{
 }
 
 @font-face{
-    font-family: Indie-flower, luciole;
-    src: local("indie-flower-bold"),
-     url(IndieFlowerBold.ttf);
-     src: local("luciole"),
-     url(luciole.ttf);
+    font-family: 'Indie-Flower, Luciole-Regular';
+    src:
+     url('police/IndieFlowerBold.ttf'), format(truetype);
+     src:
+     url('police/LucioleRegular.ttf'), format(truetype);
+   font-weight:normal;
+   font-size:normal;  
 }
 
 .h2{
     font-family:"Indie-flower" bold;
-    font-size:15px ;
+    font-size:10px ;
     text-align: center;
+    
 }
 
-.h3,h4{
+.h3{
     font-family: "Indie-flower" bold;
-    font-size: 14px ; 
+    font-size: 8px ; 
    
 }
 
@@ -34,14 +37,6 @@ body{
     font-family: "luciole";
     font-size:20px;
 }
-
-
-.li{
-   font-family: "luciole";
-   text-align: center;
-   font-size:10px;
-   list-style-position: inside;  
-    }
 
 .image{
     width: 100%;
@@ -57,7 +52,7 @@ body{
 
   
 
-    .test_para,li,h3,a
+    .test_para,a
     {
         display: flex;
         flex-direction: column;
