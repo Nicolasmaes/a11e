@@ -56,5 +56,25 @@
       }
 
     
+      body{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        max-width: 100%;
+        min-height: 100vh;
+        font-family: "luciole";
+    }
     
-      
+    img{
+        width: 100%;
+        height: auto;
+    }
+    
+    .margin{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 2rem;
+    }
+    
