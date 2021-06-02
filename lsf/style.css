@@ -1,13 +1,24 @@
 body{
-    margin:auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    min-height: 100vh;
 }
-
-.main_lsf
+img
 {
-
-    margin: 0 auto;
-    max-width: 34rem;
-
+    max-width: 40rem;
+    width: 100%;
+    height: auto;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.margin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 @font-face{
@@ -20,54 +31,27 @@ body{
    font-size:normal;  
 }
 
-.h2{
-    font-family:"Indie-flower" bold;
-    font-size:10px ;
-    text-align: center;
+  .main__lsf{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      row-gap: 4rem;
+      max-width: 60rem;
     
-}
+  }
 
-.h3{
-    font-family: "Indie-flower" bold;
-    font-size: 8px ; 
-   
-}
+  .main__lsf__paragraphe{
+      display: flex;
+      flex-direction: column;
+      background-color: lightgray;
+      row-gap: 1rem;
+  }
 
-.p{
-    font-family: "luciole";
-    font-size:20px;
-}
 
-.image{
-    width: 100%;
-    max-width: 20rem;
-    height: auto;
-    margin-left: 25%;
-    }
-    
-    .main_lsf
-    {
-        text-align: left;
-    }
-
-  
-
-    .test_para,a
-    {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
- 
-    }
-
-   
-  
-  @media screen and (min-width:30rem)
-  {
-    .test h2
-    {
-       text-align: center;
-    
+  @media screen and (min-width:30rem){
+    .main__lsf__paragraphe__titre{
+        text-align: center;
     }
   }
+
