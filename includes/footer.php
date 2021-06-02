@@ -1,4 +1,4 @@
-<footer>
+    <footer>
         <img src="../assets/images/pictures/Sans-titre-2.png" alt="arrière plan bleu">
         <div class="footer_menu">
             <span>Crédits</span>
@@ -12,6 +12,3 @@
 </body>
 </html>
 
-<script src="../assets/scripts/main.js"></script>
-</body>
-</html>
