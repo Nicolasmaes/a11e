@@ -1,0 +1,80 @@
+.h1,h2,h3,h5,h6,h7,h8,h9{
+    font-family: Indie-flower bold;
+    font-size: 20px ;
+    text-align: center;
+}
+
+.h4{
+    font-family: Indie-flower bold;
+    font-size: 18px ;
+    text-align: left;
+}
+
+.p{
+    font-family: luciole;
+    text-align: center;
+    font-size:15px;
+    width: 85px; 
+    margin:auto;
+    
+}
+
+.ul{
+    font-family: Indie-flower;
+    text-align: center;
+    font-size:10px;
+    font-weight: bolder;
+}
+   
+ .li{
+        font-family: luciole;
+        text-align: center;
+        font-size:10px;
+        list-style-position: inside;
+        
+    }
+
+
+
+.image{
+    width: 100%;
+    max-width: 20rem;
+    height: auto;
+    
+    }
+    
+    .main_lsf
+    {
+        text-align: left;
+    }
+
+    @media screen and (min-width: 30rem) {
+        .main_lsf
+        {
+            text-align: center;
+        }
+      }
+
+    
+      body{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        max-width: 100%;
+        min-height: 100vh;
+        font-family: "luciole";
+    }
+    
+    img{
+        width: 100%;
+        height: auto;
+    }
+    
+    .margin{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 2rem;
+    }
+    
