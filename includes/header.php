@@ -6,5 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Language des signes</title>
     <link rel="stylesheet"  href="../assets/styles/lsf.css">
+    <link rel="stylesheet" href="../assets/styles/<?= $name ?>.css">
 </head>
 <body>

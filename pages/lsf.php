@@ -1,4 +1,7 @@
-<?php include '../includes/header.php' ?>
+<?php
+$name = "lsf";
+include '../includes/header.php';
+?>
 <div class="margin">
         <div class="main__lsf">
             <div class="main__lsf__paragraphe">
