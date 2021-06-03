@@ -1,9 +1,42 @@
 <?php
-$name = "lsf";
 include '../includes/header.php';
 ?>
+
+<div class="test">
+        <img src="../assets/images/pictures/deafgroup.png" alt="" >
+        <p class="text_lsf">LSF</p>
+
+        <header>
+            <img src="../assets/images/icons/logo-a11e-white.svg" alt="">
+            <div class="menu_button">
+                <div class="cross">x</div>
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div class="menu_mobile">
+                <span>Interview</span>
+                <span>Statistiques</span>
+                <span>LSF</span>
+                <span>Sous-titre</span>
+            </div>
+            <div class="menu_pc">
+                <span>Interview</span>
+                <span>Statistiques</span>
+                <span>LSF</span>
+                <span>Sous-titre</span>
+            </div>
+        </header>
+    </div>
+
 <div class="margin">
+
+    
+
         <div class="main__lsf">
+        <p class="main__lsf__title_mobile">Lsf</p>
             <div class="main__lsf__paragraphe">
                     
                     <h2 class="main__lsf__paragraphe__titre"> accessibilité numérique et langue des signes </h2>
