@@ -1,13 +1,13 @@
     <footer>
         <img src="../assets/images/pictures/Sans-titre-2.png" alt="arrière plan bleu">
         <div class="footer_menu">
-            <span>Crédits</span>
-            <span>Mentions légales</span>
-            <span>A propos</span>
+            <a href="../pages/credits.php">Sources</a> 
+            <a href="../pages/mentions_legales.php">Mentions légales</a>
+            <a href="../pages/contact.php">A propos</a>
         </div>
     </footer>
 
-    <script src="../scripts/nav_mobile.js"></script>
+    <script src="../assets/scripts/nav_mobile.js"></script>
 
 </body>
 </html>

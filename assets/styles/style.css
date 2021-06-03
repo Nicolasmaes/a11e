@@ -224,7 +224,7 @@ header img{
   	.main__lsf__paragraphe{
       	    display: flex;
       		flex-direction: column;
-      		row-gap: 1rem;
+      		row-gap: 1.5rem;
   	}
      
 

@@ -20,17 +20,16 @@
             </div>
 
             <div class="menu_mobile">
-                <span>Interview</span>
-                <span>Statistiques</span>
-                <span>LSF</span>
-                <span>Sous-titre</span>
+                <a href="interview.php">Interview</a>
+                <a href="stat.php">Statistiques</a> 
+                <a href="lsf.php">LSF</a>
+                <a href="sous_titres_page.php">Sous-titre</a>
             </div>
-
             <div class="menu_pc">
-                <span>Interview</span>
-                <span>Statistiques</span>
-                <span>LSF</span>
-                <span>Sous-titre</span>
+                <a href="interview.php">Interview</a>
+                <a href="stat.php">Statistiques</a>
+                <a href="lsf.php">LSF</a>
+                <a href="sous_titres_page.php">Sous-titre</a>
             </div>
         </header>
     </div>

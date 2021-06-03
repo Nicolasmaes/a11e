@@ -17,16 +17,16 @@ include '../includes/header.php';
                 </div>
             </div>
             <div class="menu_mobile">
-                <span>Interview</span>
-                <span>Statistiques</span>
-                <span>LSF</span>
-                <span>Sous-titre</span>
+                <a href="interview.php">Interview</a>
+                <a href="stat.php">Statistiques</a> 
+                <a href="lsf.php">LSF</a>
+                <a href="sous_titres_page.php">Sous-titre</a>
             </div>
             <div class="menu_pc">
-                <span>Interview</span>
-                <span>Statistiques</span>
-                <span>LSF</span>
-                <span>Sous-titre</span>
+                <a href="interview.php">Interview</a>
+                <a href="stat.php">Statistiques</a>
+                <a href="lsf.php">LSF</a>
+                <a href="sous_titres_page.php">Sous-titre</a>
             </div>
         </header>
     </div>
@@ -39,7 +39,7 @@ include '../includes/header.php';
         <p class="main__lsf__title_mobile">Lsf</p>
             <div class="main__lsf__paragraphe">
                     
-                    <h2 class="main__lsf__paragraphe__titre"> accessibilité numérique et langue des signes </h2>
+                    <h2 class="main__lsf__paragraphe__titre"> Accessibilité numérique et langue des signes </h2>
                   
 
                     <p class="main__lsf__paragraphe__text">
@@ -52,7 +52,7 @@ include '../includes/header.php';
 
             <div class="main__lsf__paragraphe">
         
-                   <h2 class="main__lsf__paragraphe__titre" >historique de la LSF</h2>
+                   <h2 class="main__lsf__paragraphe__titre" >Historique de la LSF</h2>
 
                     <p class="main__lsf__paragraphe__text">
                         La LSF (langue des signes française) a longtemps été combattu et même explicitement interdite, notamment car perçu par les autorités comme un "patois gestuel" (voir loi du congrès de  Milan de 1880). Ce n'est qu'en 1991 que l'interdiction de la LSF est levé dans l'éducation, et celle-ci sera reconnut officiellement comme  une langue à part entière en 2005.
@@ -60,7 +60,7 @@ include '../includes/header.php';
             </div>
 
             <div class="main__lsf__paragraphe">
-                    <h2 class="main__lsf__paragraphe__titre">spécificités de la LSF</h2>
+                    <h2 class="main__lsf__paragraphe__titre">Spécificités de la LSF</h2>
         
                     <h3>Alphabet dactylologique</h3>
                     
@@ -69,10 +69,10 @@ include '../includes/header.php';
                     </p>
             </div>
 
-            <img src="img/langue-des-signes.jpg" class="image">
+            <img src="../assets/images/pictures/langue-des-signes.jpg" class="image">
                 
             <div class="main__lsf__paragraphe">
-                <h2 class="main__lsf__paragraphe__titre">grammaire de la LSF</h2>
+                <h2 class="main__lsf__paragraphe__titre">Grammaire de la LSF</h2>
 
                 <p class="main__lsf__paragraphe__text">
                     La langue des signes française permet d'exprimer plusieurs idées simultanément,ce qui la différencie de la grammaire française classique.<br><br>
@@ -89,7 +89,7 @@ include '../includes/header.php';
             </div>
 
             <div class="main__lsf__paragraphe">
-                <h2 class="main__lsf__paragraphe__titre">incrustation vidéo</h2>
+                <h2 class="main__lsf__paragraphe__titre">Incrustation vidéo</h2>
 
                 <p class="main__lsf__paragraphe__text">
                     Même si on est très loin d'une pratique systématique, on a tous déjà vu des vidéos, notamment de discours officiels,avec incrustation dans un coin de l'écran d'une personne traduisant les dialogues en temps réel. 
@@ -100,7 +100,7 @@ include '../includes/header.php';
             </div>
 
             <div class="main__lsf__paragraphe">
-                <h2 class="main__lsf__paragraphe__titre">applications utilisant la langue des signes</h2>
+                <h2 class="main__lsf__paragraphe__titre">Applications utilisant la langue des signes</h2>
 
                 <p class="main__lsf__paragraphe__text">
                     Pour l'instant, il n'existe pas ou peut d'application pour sourds utilisant la langue des signes.
@@ -111,7 +111,7 @@ include '../includes/header.php';
             </div> 
 
             <div class="main__lsf__paragraphe">
-                <h2 class="main__lsf__paragraphe__titre">idées pour le projet << accessibilité numérique >></h2>
+                <h2 class="main__lsf__paragraphe__titre">Idées pour le projet << accessibilité numérique >></h2>
                 
                 <p class="main__lsf__paragraphe__text"> 
                     Une idée serait de créer une interface semblable à celle d'un  traducteur comme celui de google, qui traduirait en alphabet dactylologique.
