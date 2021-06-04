@@ -1,5 +1,5 @@
     <footer>
-        <img src="../assets/images/pictures/Sans-titre-2.png" alt="arrière plan bleu">
+        <img src="../assets/images/pictures/Sans-titre-2.png" alt="Bannière bleue">
         <div class="footer_menu">
             <a href="../pages/credits.php">Sources</a> 
             <a href="../pages/mentions_legales.php">Mentions légales</a>

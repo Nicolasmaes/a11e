@@ -219,13 +219,18 @@ header img{
             max-width: 1000px;
         }
 
-	/* lsf */
+        /* lsf */
 
-  	.main__lsf__paragraphe{
-      	    display: flex;
-      		flex-direction: column;
-      		row-gap: 1.5rem;
-  	}
+        .main__lsf__paragraphe{
+                display: flex;
+                flex-direction: column;
+                row-gap: 1.5rem;
+        }
+
+        /* interview */
+        .main__interview__paragraphe__question{
+            font-weight: bold;
+        }
      
 
         /* contact */

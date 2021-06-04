@@ -2,13 +2,15 @@
  
 
 <div class="test">
-        <img src="../assets/images/pictures/deafgroup.png" alt="" >
+        <img src="../assets/images/pictures/deafgroup.png" alt="Une leçon de langue des signes" >
         <p class="text_landingpage">
             Découvrons ensemble une communauté qui n'est pas assez entendue
         </p>
 
         <header>
-            <img src="../assets/images/icons/logo-a11e-white.svg" alt="">
+            <a href="landing_page.php">
+                <img src="../assets/images/icons/logo-a11e-white.svg" alt="logo">
+            </a>
 
             <div class="menu_button">
                 <div class="cross">x</div>
@@ -42,7 +44,7 @@
                 Découvrons ensemble une communauté qui n'est pas assez entendue
             </p>
   
-            <iframe src="https://www.youtube.com/embed/Sf7mLlImkYI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/Sf7mLlImkYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
             <div class="main__landing_page__miniature">
                     <div class="main__landing_page__miniature__group">

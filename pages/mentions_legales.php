@@ -1,13 +1,15 @@
 <?php include "../includes/header.php";?>
 
     <div class="test">
-        <img src="../assets/images/pictures/deafgroup.png" alt="" >
+        <img src="../assets/images/pictures/deafgroup.png" alt="Une leçon de langue des signes" >
         <p class="text_sous_titres">
             Mentions légales
         </p>
 
         <header>
-            <img src="../assets/images/icons/logo-a11e-white.svg" alt="">
+            <a href="landing_page.php">
+                <img src="../assets/images/icons/logo-a11e-white.svg" alt="logo">
+            </a>
 
             <div class="menu_button">
                 <div class="cross">x</div>
