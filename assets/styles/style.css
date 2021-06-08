@@ -8,15 +8,15 @@
     font-family: "luciole";
     src: url("../fonts/Luciole-Regular.ttf") ;
 }
-
+footer, header, .test{
+    user-select: none;
+}
 *{
     margin: 0;
     padding: 0;
     color: inherit;
     text-decoration: none;
-    user-select: none;
 }
-
 body{
     display: flex;
     flex-direction: column;
@@ -25,12 +25,10 @@ body{
     min-height: 100vh;
     font-family: "luciole";
 }
-
 img{
     width: 100%;
     height: auto;
 }
-
 .margin{
     display: flex;
     flex-direction: column;
@@ -63,7 +61,6 @@ img{
     font-size: 1.5rem;
     padding: 1rem;
 }
-
 
 
 /* image background */
