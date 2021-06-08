@@ -42,7 +42,7 @@ include '../includes/header.php';
 
             <h2 class="main__lsf__paragraphe__titre" style="margin-bottom:1.5rem;"> Essayez notre traducteur </h2>
 
-            <div id="container">
+            <div id="container" style="margin-bottom:1.5rem;">
                 <input type="text" id="copy-text" placeholder="Ecrivez le mot à traduire."></textarea>
             </div>
 
