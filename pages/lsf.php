@@ -35,10 +35,21 @@ include '../includes/header.php';
 
 <div class="margin">
 
-    
-
         <div class="main__lsf">
-        <p class="main__lsf__title_mobile">Lsf</p>
+
+        <p class="main__lsf__title_mobile">LSF</p>
+        <div>
+
+            <h2 class="main__lsf__paragraphe__titre" style="margin-bottom:1.5rem;"> Essayez notre traducteur </h2>
+
+            <div id="container">
+                <input type="text" id="copy-text" placeholder="Ecrivez le mot à traduire."></textarea>
+            </div>
+
+            <div id="lsf">
+            </div>
+        </div>
+
             <div class="main__lsf__paragraphe">
                     
                     <h2 class="main__lsf__paragraphe__titre"> Accessibilité numérique et langue des signes </h2>
@@ -130,8 +141,10 @@ include '../includes/header.php';
                  <a href="https://lejournal.cnrs.fr/articles/faciliter-la-traduction-en-langue-des-signes">Traduction: langue des signes</a><br>
                  <a href="http://lsq.uqam.ca/sites/default/files/Banff2003.pdf">Lsq.pdf</a><br>
                 <a href="https://fr.wikipedia.org/wiki/Langue_des_signes_française">Wikipedia</a><br>
-                <a href="https://webzine.okeenea.com/6-applications-sourds-malentendants-2020/">Applications sourds-malentendants/</a>
+                <a href="https://webzine.okeenea.com/6-applications-sourds-malentendants-2020/">Applications sourds-malentendants</a>
             <p>
-        </div>
-        </div>
+        </div>                 
+</div>
+
+<script type="text/javascript" src="../assets/scripts/traducteur.js"></script>
 <?php  include '../includes/footer.php' ?>
