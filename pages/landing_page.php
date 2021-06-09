@@ -53,7 +53,7 @@
                             <span class="main__landing_page__miniature__group__text__description">A l'écoute des sourds</span>
                         </p>
 
-                        <a href="#">
+                        <a href="interview.php">
                             <div class="main__landing_page__miniature__group__button">Parcourir</div>
                         </a>
                     </div>
@@ -69,7 +69,7 @@
                             <span>Et si on parlait chiffres</span>
                         </p>
 
-                        <a href="#">
+                        <a href="stat.php">
                             <div class="main__landing_page__miniature__group__button">Parcourir</div>
                         </a>
                     </div>
@@ -85,7 +85,7 @@
                             <span>Les malentendants en profitent-ils vraiment ?</span>
                         </p>
 
-                        <a href="#">
+                        <a href="sous_titres_page.php">
                             <div class="main__landing_page__miniature__group__button">Parcourir</div>
                         </a>
                     </div>
@@ -101,7 +101,7 @@
                             <span>Apprenez à nous comprendre</span>
                         </p>
 
-                        <a href="#">
+                        <a href="lsf.php">
                             <div class="main__landing_page__miniature__group__button">Parcourir</div>
                         </a>
                     </div>
