@@ -26,13 +26,13 @@
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a> 
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
             <div class="menu_pc">
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a>
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
     </header>
 </div>
@@ -43,12 +43,12 @@
                 
                 
                 <p class="main__interview__paragraphe">
-                    Nous avons interviewé Mr Yan Motshwiller pour qu’il nous en dise un peu plus sur l’accessibilité et son quotidien en tant que sourd. Nous étions accompagné de Lauranne Chasez interprète français de la langue des signes. 
+                    Nous avons interviewé Mr Yan Motschwiller pour qu’il nous en dise un peu plus sur l’accessibilité et son quotidien en tant que sourd. Nous étions accompagnés de Lauranne Chasez, interprète française de la langue des signes. 
                 </p>
             
                 <p class="main__interview__paragraphe">
                     <span class="main__interview__paragraphe__question">
-                        Quels problèmes principaux rencontrez-vous en tant que sourd dans la vie de tous les jours et sur le web?
+                        Quels problèmes principaux rencontrez-vous en tant que sourd dans la vie de tous les jours et sur le web ?
                     </span>
                     <br><br>
 
@@ -66,45 +66,45 @@
                 </p>
             
                 <p class="main__interview__paragraphe">
-                    <span class="main__interview__paragraphe__question">Y’a-t-il une différence entre les pays par rapport à la langue des signes ?</span><br><br>
+                    <span class="main__interview__paragraphe__question">Y a-t-il une différence entre les pays par rapport à la langue des signes ?</span><br><br>
 
                     En France la langue des signes n’est pas reconnue dans la constitution, elle n’est pas dans la 5eme république. On espère qu’on jour ça arrivera en France. Contrairement à certains pays (États unis, les pays scandinaves, l’Espagne, la Belgique) ou tous les services publique (la police, l’hôpital, tous les services administratif) sont accessibles.  Par exemple en Belgique quand les parents ont un enfant sourd, ils peuvent apprendre la langue des signes gratuitement. En France ce n’est pas le cas, les parents doivent payer de leur poche. Il n’y a aucune aide. Apres c’est une question de volonté politique. Les états Unis ont 30 ans d’avance sur nous. Par exemple si je vais aux États unis, que j’arrive au contrôle des douanes, que je rencontre un policier et que je lui explique que je suis sourd il me parlera dans la langue des signes. J’ai l’ai déjà vécu et pour moi c’était du jamais vu. Ça m’a presque émue. Je me suis même demandé si mon interlocuteur était sourd et pas du tout. C’est obligatoire aux État unis que les douaniers parlent la langue des signes car c’est reconnu dans la constitution. Par exemple, toujours aux États unis lors d’un évènement important retranscris à la télé comme l’annoncement de tornades ou autre. Ils y’a toujours un interprète sur le plateau, à cotes des responsable politique qui annonce l’évènement en question. C’est obligatoire. Alors qu’en France pas tout. Il est caché, filmé dans une autre pièce, Il n’est pas à cotes des représentant politique. On le voit en tout petit à l’extrémité de l’écran, il n’est pas mis en valeur.
                 </p>
             
                 <p class="main__interview__paragraphe">
-                    <span class="main__interview__paragraphe__question"> Pour les concerts le théâtre etc. comment ça se passe ?</span><br><br>
+                    <span class="main__interview__paragraphe__question"> Pour les concerts, le théâtre etc... Comment ça se passe ?</span><br><br>
 
-                    Il existe des théâtres où se trouve un interprète à cotes mais la plupart des sourds n’aime pas ce genre de représentation. Le fait de devoir regarder l’interprète d’un cotes puis regarder la représentation de l’autres cotes casse l’immersion. Ça nous fait déconnecter des émotions, des comédiens. On ne se sent pas égale aux personnes entendantes. Dans mon cas je préfère quand les comédiens parlent directement la langue des signes. Il y’a des troupes spécialisées là-dedans. Ça permet d’être vraiment dans l’ambiance. Par exemple l’IVT (l’international visuel théâtres) qui se situe à Paris Toulouse et Lyon est la référence pour la communauté sourde.
+                    Il existe des théâtres où se trouve un interprète à coté mais la plupart des sourds n’aiment pas ce genre de représentation. Le fait de devoir regarder l’interprète d’un cotes puis regarder la représentation de l’autres cotes casse l’immersion. Ça nous fait déconnecter des émotions, des comédiens. On ne se sent pas égale aux personnes entendantes. Dans mon cas je préfère quand les comédiens parlent directement la langue des signes. Il y’a des troupes spécialisées là-dedans. Ça permet d’être vraiment dans l’ambiance. Par exemple l’IVT (l’international visuel théâtres) qui se situe à Paris Toulouse et Lyon est la référence pour la communauté sourde.
                 </p>
             
                 <p class="main__interview__paragraphe">
-                    <span class="main__interview__paragraphe__question">Y’a-t-il des concerts spécialisés dans la vibration ?</span><br><br> 
+                    <span class="main__interview__paragraphe__question">Y a-t-il des concerts spécialisés dans la vibration ?</span><br><br> 
 
                     Les sourds n’ont pas forcement d’attrait pour la musique. Il y’en certain qui aime bien ressentir le rythme et l’apprécier. Mais pour la majorité des sourds ce n’est pas le cas. Dans mon cas par exemple la musique n’a pas vraiment d’intérêt. Apres tout ce qui est musique classique ou il n’y a pas de basse, ou l’on ne ressent pas le rythme, n’est pas vraiment adapté pour les sourds. Les musiques avec beaucoup de basse ou avec des percussions comme du djembé sont bien plus adaptées à notre situation. Il y’a des nouveaux moyens techniques qui ont été crée il n’y pas très longtemps, ce sont des gilets qu’on attache dans le dos avec un système de vibration. Il y’avait également des caissons vibrants ou l’on pouvait se mettre dessus, avec des basses à l’intérieur le tout lié à la personne ou le groupe qui fait la représentation musicale. Il y’a une salle qui s’appelle « la vapeur » qui organise des concerts accessibles aux personnes sourdes. Récemment il y’a eu un championnat de Beatbox qui a été adapté aux personnes sourdes. J’ai eu l’occasion d’y être invité et j’ai pu essayer ces gilets et caissons. Ça transmet pas mal d’émotion et c’était une belle expérience. Etant une personne habituée au silence toute ces vibrations m’ont un peu fatigué et je ne suis pas resté jusqu’à la fin. Mais il y’a d’autre personnes qui ont adoré ce principe et qui sont restés jusqu’au Bou.  C’est vrai qu’il y’a quand même une différence culturelle entre le sourd et les entendants. Notamment lors des fêtes les entendant aiment la musique, les lumières danser etc. on pourrait même dire qu’ils ont besoin de ça. Une fête sans musique pour un entendant ce n’est pratiquement pas envisageable. 
                 </p>
             
                 <p class="main__interview__paragraphe">
-                    <span class="main__interview__paragraphe__question">Est-ce que les jeux sont-ils adaptés pour vous ?</span><br><br>
+                    <span class="main__interview__paragraphe__question">Les jeux sont-ils adaptés pour vous ?</span><br><br>
 
                     Une fois que les règles sont expliquées La plupart des jeux de sociétés sont adaptés. Nous n’avons de soucis de ce cotés-là. Il y’a tout de même quelques exceptions. Je pense notamment au jeu ou le but est de faire découvrir un mot en français ou de faire des jeux de mots. Des jeux comme le trivial poursuite ou il y’a beaucoup de texte nous pose aussi problème, étant toujours lié à la compréhension du français. Du cotes des jeux vidéo nous n’avons aucuns soucis, tout est visuel. C’est facilement compréhensible.
                 </p>
             
                 <p class="main__interview__paragraphe">
-                    <span class="main__interview__paragraphe__question">Y’a-t-il des applications ou site qui dérange au quotidien ?</span><br><br>
+                    <span class="main__interview__paragraphe__question">Y a-t-il des applications ou sites qui dérangent au quotidien ?</span><br><br>
 
                     Oui, je pense notamment à un sous-traitant de SFR (RED) Ou la plateforme n’est pas adapté aux personnes sourdes et la seule façon de les contacter est de leur écrire, ce qu’il n’est pas accessible à tout le monde. Il y’ a d’autre plateforme comme celle de mon assurance ou tout est entièrement accessible. Par exemple si je suis en panne je peux les contacter très facilement, il y’a un service dédié à notre cas où je peux parler en Visio avec la personne concerné. Les réseaux sociaux sont en générale adaptés aux personnes sourdes et je dirai même que nous en avons besoin. Ça nous aide énormément pour avoir des informations qui circule. Les sourds sont en générale en retard sur les entendants. Par exemple en voiture vous avez la radio etc. et les réseaux sociaux nous aident sur ce sujet-là. C’est pratiquement une révolution pour nous, ces outils nous sont vraiment utiles. WhatsApp est également très utilisé car nous pouvons envoyer des vidéos allant jusqu’à une durée de 6min. Ce qui n’est pas le cas de Facebook par exemple ou les vidéos sont limités à 2min. Je communique avec tous le jours. Face time à également été une révolution, un vrai bon en avant. Beaucoup de sourd préfèrent l’iPhone pour cette raison.
                 </p>
             
                 <p class="main__interview__paragraphe">
-                    <span class="main__interview__paragraphe__question">Comment ça se déroule quand vous allez au cinéma ? trouvez-vous des séances sous-titrées facilement ?</span><br><br>
+                    <span class="main__interview__paragraphe__question">Comment ça se passe quand vous allez au cinéma ? Trouvez-vous des séances sous-titrées facilement ?</span><br><br>
 
                     Le sous-titrage des films est extrêmement important. Par rapport au cinéma nous trouvons des séances assez facilement. Le souci dans les petites villes c’est qu’elles ne sont projetées en générale qu’en semaine. Ce qui est assez problématique. La plupart du temps quand on veut voir un film c’est plutôt le Week end. Nous avons aussi un problème avec les films français qui sont très rarement sous-titrés. Mais ça commence petit à petit à arriver.
                 </p>
             
                 <p class="main__interview__paragraphe">
-                    <span class="main__interview__paragraphe__question">Quand vous prenez le train, il y’a certaine informations qui sont dites à l’oral. Comment faite vous dans cette situation ?</span><br><br>
+                    <span class="main__interview__paragraphe__question">Quand vous prenez le train, il y a certaines informations qui sont dites à l’oral. Comment faites-vous dans cette situation ?</span><br><br>
 
-                    La Sncf à un avatar maintenant. Sur les écrans il peut y avoir de la langue des signes. Apres ce n’est pas parfait, c’est en phase d’expérimentation mais ça n’avance pas beaucoup depuis quelques années. Apres imaginons que je suis à paris le quai, j’attends le train, et si je vois qu’il commence à y avoir un peu de retard ce que je fais et ce que font les sourds en générale c’est de regarder la réaction, le comportement, l’attitude des gens. Quand par exemple les gens commencent à tendre l’oreille là on se dit tiens, il y’a un message qui est en train de se faire à l’orale. On va voir les gens qui prennent leur téléphone pour appeler, qui vont faire la grimace, ça va nous mettre la puce à l’oreille et on va aller voir ce qui se passe à l’écran. Le vrai souci c’est quand on est dans le train et qu’il n’y pas d’écran. L’informations n’est que sonore et on se retrouve vraiment sans accessibilité. Imaginons que le train s’arrête brutalement, on va devoir aller demander au voisin, en essayant d’écrire un message sur le téléphone par exemple.
+                    La SNCF à un avatar maintenant. Sur les écrans il peut y avoir de la langue des signes. Après ce n’est pas parfait, c’est en phase d’expérimentation mais ça n’avance pas beaucoup depuis quelques années. Apres imaginons que je suis à Paris sur le quai, j’attends le train, et si je vois qu’il commence à y avoir un peu de retard : ce que font les sourds en générale c’est de regarder la réaction, le comportement, l’attitude des gens. Quand par exemple les gens commencent à tendre l’oreille là on se dit : "tiens, il y a un message qui est en train de se faire à l’orale."" On va voir les gens qui prennent leur téléphone pour appeler, qui vont faire la grimace, ça va nous mettre la puce à l’oreille et on va aller voir ce qui se passe à l’écran. Le vrai souci c’est quand on est dans le train et qu’il n’y a pas d’écran. L’informations n’est que sonore et on se retrouve vraiment sans accessibilité. Imaginons que le train s’arrête brutalement, on va devoir aller demander au voisin, en essayant d’écrire un message sur le téléphone par exemple.
                 </p>
             
                 <p class="main__interview__paragraphe">
@@ -122,7 +122,7 @@
                     Je ne savais pas je viens de l’apprendre 
                 </p>
         
-                <p class="main__interview__paragraphe"><span class="main__interview__paragraphe__question">Y a-t-il des youtubeurs, des personnes publics, qui sont connut chez les sourds ?</span>
+                <p class="main__interview__paragraphe"><span class="main__interview__paragraphe__question">Y a-t-il des youtubeurs, des personnes publics, qui sont connus chez les sourds ?</span>
                 Oui bien sûr, des comédiens, dans le sport, le cinéma, y en a qui font des conférences.</p>
             
                 <p class="main__interview__paragraphe">
@@ -141,7 +141,7 @@
                 </p>
             
                 <p class="main__interview__paragraphe">
-                    <span class="main__interview__paragraphe__question">Comment se déroule les cours à distance ?</span><br><br>
+                    <span class="main__interview__paragraphe__question">Comment se déroulent les cours à distance ?</span><br><br>
                     Alors à distance, par exemple à l'université paris XVIII, j'ai déjà donné des cours à des futurs formateurs, on fait des cours via zoom. On peut y partager un PowerPoint... Il faut être plus attentif donc on fait plus de pauses. <br>
                     Il y a aussi des plates-formes sur Moodle, pour enseigner la LSF* à distance. En France il y a des écoles bilingues, donc l'enfant suit une scolarité standard, normale, avec des professionnelles en plus, donc ça se fait directement en LSF et a l'écrit. Il y a des écoles bilingues et des instituts spécialisés
                 </p>
@@ -158,7 +158,7 @@
                 </p>
             
                 <p class="main__interview__paragraphe">
-                    <span class="main__interview__paragraphe__question">Est-ce que votre épouse est-elle née sourde ? </span><br><br>
+                    <span class="main__interview__paragraphe__question">Votre épouse est-elle née sourde ? </span><br><br>
 
                     On ne sait pas, ses parents ont découvert sa surdité quand elle avait 2-3 ans. Sa maman était professeur d’école et quand elle était enceinte elle à attraper des maladies du a ses élèves ce qui a pu développer le fait qu’elle soit devenue sourde. Il y’a tellement de facteurs qui rentre en compte que c’est très compliqué de savoir.
                 </p>
@@ -172,13 +172,13 @@
                 <p class="main__interview__paragraphe">
                     <span class="main__interview__paragraphe__question">Est-ce que tous les sourds savent lire sur les lèvres ? </span><br><br>
 
-                    Je suis né en 70, donc c’était une période vraiment porté sur l’oralisme. La langue des signes était interdite. Ça veut dire que j’ai grandi à l’école en étant obligé d’oraliser et lire sur les lèvres. C’est vrai que du coup je n’étais pas à l’aise pour m’exprimer, je me sentais limité dans la communication. En langue des signes je n’ai plus aucune difficulté, c’est ma langue. Comme ce matin, vous me posez des questions et je n’ai aucune difficulté à y répondre, je suis à l’aise et c’est naturel pour moi. C’est vrai que ça a été une enfance assez difficile, beaucoup de séances d’orthophonie pour apprendre à vocaliser. <br><br>
+                    Je suis né en 70, donc c’était une période vraiment portée sur l’oralisme. La langue des signes était interdite. Ça veut dire que j’ai grandi à l’école en étant obligé d’oraliser et lire sur les lèvres. C’est vrai que du coup je n’étais pas à l’aise pour m’exprimer, je me sentais limité dans la communication. En langue des signes je n’ai plus aucune difficulté, c’est ma langue. Comme ce matin, vous me posez des questions et je n’ai aucune difficulté à y répondre, je suis à l’aise et c’est naturel pour moi. C’est vrai que ça a été une enfance assez difficile, beaucoup de séances d’orthophonie pour apprendre à vocaliser. <br><br>
 
                     Actuellement je n’utilise jamais ma voix. En 1991 la langue des signes à été autorisé dans l’éducation grâce à la loi Fabius. Les parents avaient enfin le choix de l’éducation de leurs enfants. Ils avaient le choix d’une école bilingue ou d’un autre parcours pour leurs enfants. Le problème c’est qu’en 1991 il n’y avait pas d’école bilingue. Ce n’était pas encore développé. Les parents avaient un choix qui n’était finalement pas réel. J’ai dû aller dans une école spécialisée. En 2000 les écoles bilingues se sont développées dans les 4 grandes villes nommées précédemment. A Dijon il y’a une association, l’APES (Association de Parents d’Enfants Sourds) qui qui a été créée par des parents d’enfants sourds il y a 3-4 ans, et eux leur combat c’est d’ouvrir une école bilingue à Dijon.
                 </p>
             
                 <p class="main__interview__paragraphe">
-                    <span class="main__interview__paragraphe__question">Quelles conséquences ont les masques sur la compréhension d’autre personnes chez les sourds, y’a-t-il un véritable impacte ?  </span><br><br>
+                    <span class="main__interview__paragraphe__question">Quelles conséquences ont les masques sur la compréhension d’autre personnes chez les sourds, y a-t-il un véritable impacte ?  </span><br><br>
 
                     Oui ça a des conséquences. Déjà parce que si je rencontre une personne je ne sais pas si elle parle ou pas. Je ne sais pas trop comment réagir, je suis toujours dans l’hésitation. Dans mon cas ça ne m’impacte pas énormément car je passe souvent par l’écrit et je suis très à l’aise avec la langue des signes. Mais des personnes qui communiquent principalement avec la lecture des lèvres et l’orale sont énormément impactées. Je n’ai pas besoin de de lire sur les lèvres par contre j’ai besoin du visuel, de voir la réaction sur le visage, on voit les mimiques, le mouvement de la bouche, des expressions etc... Sans ça je ne sais pas si la personne est sympathique ou non. Contente ou non, le masque me gêne pour ce genre de situation. L’interprète est obligé d’enlever le masque pour que je puisse voir les expressions.
                 </p> 

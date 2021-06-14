@@ -3,7 +3,7 @@
         <div class="footer_menu">
             <a href="../pages/credits.php">Sources</a> 
             <a href="../pages/mentions_legales.php">Mentions légales</a>
-            <a href="../pages/contact.php">A propos</a>
+            <a href="../pages/contact.php">Contact</a>
         </div>
     </footer>
 

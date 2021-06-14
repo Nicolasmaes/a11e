@@ -25,13 +25,13 @@
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a> 
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
             <div class="menu_pc">
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a>
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
         </header>
     </div>

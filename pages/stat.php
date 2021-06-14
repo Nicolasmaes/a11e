@@ -20,13 +20,13 @@
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a> 
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
             <div class="menu_pc">
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a>
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
         </header>
     </div>
@@ -96,9 +96,9 @@
             </p>
 
             <p class="main__statistique__paragraphe">
-                <span style="font-weight: bold;">Liens utilisé :</span> <br><br>
+                <span style="font-weight: bold;">Liens utilisés</span> <br><br>
 
-                <a style="font-style: italic;" href="https://www.surdi.info/bibliographie/des-chiffres-autour-de-la-surdite/#:~:text=Des%20chiffres%20globaux,auditive%20soit%2011.2%20%25%20des%20fran%C3%A7ais. ">Des chiffres autour de la surdité</a>
+                <a style="font-style: italic;" href="https://www.surdi.info/bibliographie/des-chiffres-autour-de-la-surdite/#:~:text=Des%20chiffres%20globaux,auditive%20soit%2011.2%20%25%20des%20fran%C3%A7ais. " target="_blank">Des chiffres autour de la surdité</a>
             </p>
            
         </div>

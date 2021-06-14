@@ -24,13 +24,13 @@
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a> 
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
             <div class="menu_pc">
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a>
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
     </header>
 </div>
@@ -45,7 +45,7 @@
             Historiquement au cinéma, tout commence avec les films muets. <br>
             Les situations et dialogues étaient retranscrits complètement à part sur des fonds noirs, en quittant la scène des yeux. <br><br>
 
-            <a href="https://www.youtube.com/watch?v=DJcTeHsZ4m4" style="font-style: italic;"><span class="embed">Extrait  de film muet</span></a><br><br>
+            <a href="https://www.youtube.com/watch?v=DJcTeHsZ4m4" style="font-style: italic;" target="_blank"><span class="embed">Extrait  de film muet</span></a><br><br>
 
             On peut imaginer que ces films étaient et sont toujours agréables à regarder par des déficients auditifs. <br><br><br>
 
@@ -140,19 +140,16 @@
         <p> 
             <span style="font-weight: bold;"> Sources :</span> <br><br>
             
-            <span style="font-style: italic;" class="line-height sources">
-                <a href="https://en.wikipedia.org/wiki/Closed_captioning">Closed caption</a> 
-                <a href="https://www.bloghoptoys.fr/masques-un-picto-pour-les-malentendants">Masques pour les malentendants</a>
-                <a href="https://www.francetvinfo.fr/internet/telephonie/avec-l-application-rogervoice-les-personnes-sourdes-et-malentendantes-peuvent-appeler-avec-leur-telephone_2975031.html">RogerVoice</a>
-                <a href="http://babylon-design.com/surdite-accessibilite-sourds-sur-internet/">BabylonDesign</a>
-                <a href="https://www.amberscript.com/fr/accessibilite-numerique">AmberScript</a>
-                <a href="https://www.addic7ed.com/">Addic7ed</a>
+            <span style="font-style: italic;">
+                <a href="https://en.wikipedia.org/wiki/Closed_captioning" target="_blank">Closed caption</a><br>
+                <a href="https://www.bloghoptoys.fr/masques-un-picto-pour-les-malentendants" target="_blank">Masques pour les malentendants</a><br>
+                <a href="https://www.francetvinfo.fr/internet/telephonie/avec-l-application-rogervoice-les-personnes-sourdes-et-malentendantes-peuvent-appeler-avec-leur-telephone_2975031.html" target="_blank">RogerVoice</a><br>
+                <a href="http://babylon-design.com/surdite-accessibilite-sourds-sur-internet/" target="_blank">BabylonDesign</a><br>
+                <a href="https://www.amberscript.com/fr/accessibilite-numerique" target="_blank">AmberScript</a><br>
+                <a href="https://www.addic7ed.com/" target="_blank">Addic7ed</a>
             </span>
-        </p>
-       
-
+        </p>   
     </main>
-
 </div>
 
 <?php include "../includes/footer.php"; ?>

@@ -21,13 +21,13 @@
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a> 
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
             <div class="menu_pc">
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a>
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
         </header>
     </div>
@@ -47,9 +47,9 @@
 
                         <div class="main__contact__duo__card__link">
                             <img src="../dossier-conception/pptx-assets/github.png" alt="">
-                            <a href="https://github.com/Onetouch59">Github</a>
+                            <a href="https://github.com/Onetouch59" target="_blank">Github</a>
                             <img src="../dossier-conception/pptx-assets/logo_linkedin.png" alt="">
-                            <a href="https://www.linkedin.com/in/adam-bederiat-1a4706210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmZj7viCQT0O01vJBWtw1%2BQ%3D%3D">LinkedIn</a>                        
+                            <a href="https://www.linkedin.com/in/adam-bederiat-1a4706210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmZj7viCQT0O01vJBWtw1%2BQ%3D%3D" target="_blank">LinkedIn</a>                        
                         </div>
                 </div>
 
@@ -61,9 +61,9 @@
 
                     <div class="main__contact__duo__card__link">
                         <img src="../dossier-conception/pptx-assets/github.png" alt="">
-                        <a href="https://github.com/Adrien-Ray">Github</a>
+                        <a href="https://github.com/Adrien-Ray" target="_blank">Github</a>
                         <img src="../dossier-conception/pptx-assets/logo_linkedin.png" alt="">
-                        <a href="https://www.linkedin.com/in/adrien-raymond-568b1b20a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BODFuIczvRnaZ5h8zTR2fVQ%3D%3D">LinkedIn</a>                        
+                        <a href="https://www.linkedin.com/in/adrien-raymond-568b1b20a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BODFuIczvRnaZ5h8zTR2fVQ%3D%3D" target="_blank">LinkedIn</a>                        
                     </div>
                 </div>
             </div>
@@ -77,9 +77,9 @@
 
                         <div class="main__contact__duo__card__link">
                             <img src="../dossier-conception/pptx-assets/github.png" alt="">
-                            <a href="https://github.com/Micmacthebigmac">Github</a>
+                            <a href="https://github.com/Micmacthebigmac" target="_blank">Github</a>
                             <img src="../dossier-conception/pptx-assets/logo_linkedin.png" alt="">
-                            <a href="https://www.linkedin.com/in/herv%C3%A9-richard-8072b8201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9kRdy4hyTiqmj%2BwzLL1dog%3D%3D">LinkedIn</a>                        
+                            <a href="https://www.linkedin.com/in/herv%C3%A9-richard-8072b8201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9kRdy4hyTiqmj%2BwzLL1dog%3D%3D" target="_blank">LinkedIn</a>                        
                         </div>
                     </div>
 
@@ -91,9 +91,9 @@
 
                         <div class="main__contact__duo__card__link">
                             <img src="../dossier-conception/pptx-assets/github.png" alt="">
-                            <a href="https://github.com/Nicolasmaes">Github</a>
+                            <a href="https://github.com/Nicolasmaes" target="_blank">Github</a>
                             <img src="../dossier-conception/pptx-assets/logo_linkedin.png" alt="">
-                            <a href="https://www.linkedin.com/in/nicolas-ma%C3%ABs-6a1b571b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrV3P39WaRLCgQjmTUBq5tg%3D%3D">LinkedIn</a>                        
+                            <a href="https://www.linkedin.com/in/nicolas-ma%C3%ABs-6a1b571b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrV3P39WaRLCgQjmTUBq5tg%3D%3D" target="_blank">LinkedIn</a>                        
                         </div>
                     </div>
             </div>

@@ -22,13 +22,13 @@ include '../includes/header.php';
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a> 
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
             <div class="menu_pc">
                 <a href="interview.php">Interview</a>
                 <a href="stat.php">Statistiques</a>
                 <a href="lsf.php">LSF</a>
-                <a href="sous_titres_page.php">Sous-titre</a>
+                <a href="sous_titres_page.php">Les sous-titres</a>
             </div>
         </header>
     </div>
@@ -59,7 +59,7 @@ include '../includes/header.php';
                         Lors de l'élaboration d'un projet sur l'accessibilité numérique orientée sur la surdité, la question s'est posé de savoir quels était les meilleurs façons de retranscrire sons et paroles dans des contenus audio et vidéos.<br><br> 
 
                         Les sous-titres et les closed captions sont traités dans un autre article.<br>
-                        <a style="text-align:left;" href="https://promo-68.codeur.online/blog/index.php/author/nicolasm/">Ecris par NICOLASM</a>
+                        <a style="text-align:left;" href="https://promo-68.codeur.online/blog/index.php/author/nicolasm/" target="_blank">Ecris par NICOLASM</a>
                     </p>
             </div>
 
@@ -138,10 +138,10 @@ include '../includes/header.php';
             <p>
                 <span style="font-weight:bold; font-style:italic;">Source</span> <br><br>
 
-                 <a href="https://lejournal.cnrs.fr/articles/faciliter-la-traduction-en-langue-des-signes">Traduction: langue des signes</a><br>
-                 <a href="http://lsq.uqam.ca/sites/default/files/Banff2003.pdf">Lsq.pdf</a><br>
-                <a href="https://fr.wikipedia.org/wiki/Langue_des_signes_française">Wikipedia</a><br>
-                <a href="https://webzine.okeenea.com/6-applications-sourds-malentendants-2020/">Applications sourds-malentendants</a>
+                 <a href="https://lejournal.cnrs.fr/articles/faciliter-la-traduction-en-langue-des-signes" target="_blank">Traduction: langue des signes</a><br>
+                 <a href="http://lsq.uqam.ca/sites/default/files/Banff2003.pdf" target="_blank">Lsq.pdf</a><br>
+                <a href="https://fr.wikipedia.org/wiki/Langue_des_signes_française" target="_blank">Wikipedia</a><br>
+                <a href="https://webzine.okeenea.com/6-applications-sourds-malentendants-2020/" target="_blank">Applications sourds-malentendants</a>
             <p>
         </div>                 
 </div>
